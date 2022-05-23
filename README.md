@@ -3,8 +3,7 @@
 -  meu email de contado é gabriela.sobreira.silva@escola.pr.gov.br
 -  estou interessada em  aprender a programar novas linguagens.
 - estou aprendend recentemente a programar a linguagem do JavaScript e Scratch.
-- 
-- 
+
 
 <!---
 gabizinhagamer123/gabizinhagamer123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
