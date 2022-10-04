@@ -1,7 +1,7 @@
 # sobre mim
 - oiiii meu nome é @gabizinhagamer123
 -  meu email de contado é gabriela.sobreira.silva@escola.pr.gov.br
--  estou interessada em  aprender a programar novas linguagens.
+-  estou interessada em  aprender a programar novas linguagens e estudo no Instituto De Educação Do Paraná Professor Erasmo Pilotto
 - estou aprendend recentemente a programar a linguagem do JavaScript e Scratch.
 
 
